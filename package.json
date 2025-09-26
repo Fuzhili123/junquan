@@ -1,0 +1,24 @@
+{
+  "name": "forest-management-h5",
+  "version": "1.0.0",
+  "description": "森林管理数据查询H5页面",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.31",
+    "vue-router": "^4.0.16",
+    "pinia": "^2.0.14",
+    "vant": "^3.6.8",
+    "xlsx": "^0.18.5",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.4",
+    "vite": "^2.9.15",
+    "sass": "^1.56.0"
+  }
+}
